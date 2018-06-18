@@ -73,6 +73,7 @@
 
   .close-image:hover, .close-image:focus {
     color: #bbb;
+    color: #bbb;
     text-decoration: none;
     cursor: pointer; }
 

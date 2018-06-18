@@ -258,8 +258,8 @@ svg {
   transform-origin: 50% 50%; }
 
   .images-container img:hover {
-    border: solid 5px;
-    transform: scale(1.05); }
+    border: solid 5px color #;
+      transform: scale(1.05); }
 
 #section-5 {
   background: url("../images/flowers_background5.png"),
